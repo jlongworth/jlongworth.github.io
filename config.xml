@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <game>
 	<levels>
-		<level levelnum = "0">
+		<level levelnum = "0" par="90">
 			<heroPosition x="7" y="10" />
 			<fireballObstacles>
 			</fireballObstacles>
@@ -12,7 +12,7 @@
 			<batObstacles>
 			</batObstacles>
 		</level>
-		<level levelnum = "1">
+		<level levelnum = "1" par="90">
 			<heroPosition x="6" y="1" />
 			<fireballObstacles>
 			</fireballObstacles>
@@ -24,7 +24,7 @@
 				<bat x="16" y="4" direction="0x1000"></bat>
 			</batObstacles>
 		</level>
-		<level levelnum = "2">
+		<level levelnum = "2" par="90">
 			<heroPosition x="2" y="1" />
 			<fireballObstacles>
 			</fireballObstacles>
@@ -36,7 +36,7 @@
 			<batObstacles>
 			</batObstacles>
 		</level>
-		<level levelnum = "3">
+		<level levelnum = "3" par="90">
 			<heroPosition x="2" y="20" />
 			<fireballObstacles>
 				<fireball x="24" y="20" direction="0x0010"></fireball>
@@ -49,7 +49,7 @@
 			<batObstacles>
 			</batObstacles>
 		</level>
-		<level levelnum = "4">
+		<level levelnum = "4" par="90">
 			<heroPosition x="6" y="1" />
 			<fireballObstacles>
 			</fireballObstacles>
@@ -69,7 +69,7 @@
 				<bat x="35" y="7" direction="0x0010"></bat>
 			</batObstacles>
 		</level>
-		<level levelnum = "5">
+		<level levelnum = "5"  par="90">
 			<heroPosition x="6" y="1" />
 			<fireballObstacles>
 				<fireball x="12" y="0" direction="0x1000"></fireball>
@@ -86,7 +86,7 @@
 			<batObstacles>
 			</batObstacles>
 		</level>
-		<level levelnum = "6">
+		<level levelnum = "6"  par="90">
 			<heroPosition x="3" y="8" />
 			<fireballObstacles>
 			</fireballObstacles>
@@ -116,7 +116,7 @@
 			<batObstacles>
 			</batObstacles>
 		</level>
-		<level levelnum = "7">
+		<level levelnum = "7" par="90">
 			<heroPosition x="4" y="1" />
 			<fireballObstacles>
 			</fireballObstacles>
